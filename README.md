@@ -39,7 +39,7 @@
  <!-- Coding GIF Section -->
  
 <td width="50%" align="center">
-	<img align="center" alt="Coding" width="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="130" height="380">
+	<img align="center" alt="Coding" width="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="chamod" width="130" height="380">
 </td>
 	</tr>
 </table>
@@ -62,7 +62,8 @@
 			</td>
   			<!-- Top Languages Section: Displays top programming languages used -->
 				<td width="50%" align="center">
-				<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chamod-2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+				<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamod-2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="chamod" />
   			</td>
 		</tr>
 	</table>
