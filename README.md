@@ -39,7 +39,7 @@
  <!-- Coding GIF Section -->
  
 <td width="50%" align="center">
-	<img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50" height="320">
+	<img align="center" alt="Coding" width="450" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="130" height="380">
 </td>
 	</tr>
 </table>
