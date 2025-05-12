@@ -62,8 +62,8 @@
 			</td>
   			<!-- Top Languages Section: Displays top programming languages used -->
 				<td width="50%" align="center">
-				<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamod-2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="chamod" />
+				<img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chamod-2001&layout=compact&langs_count=10&theme=algolia&locale=en&bg_color=0d1117&text_color=ffffff"
+    alt="chamod" />   
   			</td>
 		</tr>
 	</table>
